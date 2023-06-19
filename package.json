@@ -1,0 +1,7 @@
+{
+  "name": "next-product-filtering",
+  "packageManager": "yarn@3.6.0",
+  "workspaces": [
+    "./app"
+  ]
+}
